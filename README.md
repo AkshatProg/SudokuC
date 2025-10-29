@@ -42,5 +42,6 @@ Modular embedded-style design
 
 👨‍💻 Author
 
-Akshat
+Akshat Sinha
+@AkshatProg
 Embedded Systems Developer | C / STM32
